@@ -30,7 +30,3 @@ The User Intention Classification App is a sophisticated application utilizing L
 - **Setup**: Clone, install dependencies.
 - **Customize**: Define categories, train with your dataset.
 - **Integrate**: Follow API documentation for application integration.
-
-## Contribution
-
-We welcome contributions for new features, model improvements, or language support. Check our contribution guidelines for more information.
