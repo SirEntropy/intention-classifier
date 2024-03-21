@@ -21,3 +21,6 @@ def classify_text(text):
     )
     
     return res
+
+def test():
+    pass
